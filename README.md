@@ -108,6 +108,9 @@ Aπό αυτή την αφετηρία βρίσκω δόκιμο και ενδι
 
 
 (1)“Η γλώσσα των νέων μέσων” σελ. 309,Lev Manovich, Εκδόσεις ΑΣΚΤ 
+
 (2) https://www.copyright.gov/fair-use/more-info.html
+
 (3) “Η γλώσσα των νέων μέσων” σελ. 310,Lev Manovich, Εκδόσεις ΑΣΚΤ
+
 (4) Paul Valery, Pieces sur l’art, Paris 1934, σελ. 105, (La conquete de l’ubiquite)
