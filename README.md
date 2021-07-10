@@ -109,6 +109,6 @@ You can click the Preview link to take a look at your changes.
 
   Lev Manovich,2016,“Η γλώσσα των νέων μέσων”. Αθήνα: ΑΣΚΤ
 
-  Paul Valery,"1934,Pieces sur l’art". Paris: La conquete de l’ubiquite
+  Paul Valery,1934,"Pieces sur l’art". Paris: La conquete de l’ubiquite
   
   "More Information on Fair Use". Updated May 2021, https://www.copyright.gov/fair-use/more-info.html
